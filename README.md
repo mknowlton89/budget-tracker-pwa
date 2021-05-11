@@ -1,5 +1,7 @@
 # Budget Tracker PWA
 
+<img src="public/images/Screen Shot 2021-05-11 at 3.58.54 PM.png" alt="app-screenshot"></img>
+
 ## <h2>Description</h2>
 
 This is Progress Web Application (PWA) built with Node, Express, Compression, lite-server, mongoose, and morgan NPM packages. In addition to standard budget tracking features, this app leverages an IndexedDB that allows offline usage. When the device reconnects, any failed fetches will be pushed to the MongoDB database.
